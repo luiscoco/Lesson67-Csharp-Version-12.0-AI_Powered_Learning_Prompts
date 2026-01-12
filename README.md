@@ -1,12 +1,12 @@
 # Lesson 67 - C# Version 12.0 AI-Powered Learning Prompts
 (Consistency, Generalization, and Everyday Productivity)
 
-Role framing:
+## Role framing:
 
 In this lesson, your AI assistant alternates between Language Consolidator, API Designer, and Performance Advisor.
 ________________________________________
 
-Practice Prompt 1: The Strategic Purpose of C# 12
+### Practice Prompt 1: The Strategic Purpose of C# 12
 
 (Language Consolidator)
 
@@ -27,7 +27,7 @@ Outcome:
 You should clearly articulate why smoothing and unifying the language is a sign of maturity—not stagnation.
 ________________________________________
 
-Practice Prompt 2: Construction as Part of Type Identity
+### Practice Prompt 2: Construction as Part of Type Identity
 
 (API Designer)
 
@@ -48,7 +48,7 @@ Outcome:
 You should understand why construction is now considered part of a type’s semantic identity.
 ________________________________________
 
-Practice Prompt 3: Records vs Classes—Now on Equal Footing
+### Practice Prompt 3: Records vs Classes—Now on Equal Footing
 
 (Language Analyst)
 
@@ -69,7 +69,7 @@ Outcome:
 You should be able to explain how C# 12 reduces conceptual asymmetry in the type system.
 ________________________________________
 
-Practice Prompt 4: Declarative Data Shapes
+### Practice Prompt 4: Declarative Data Shapes
 
 (Language Consolidator)
 
@@ -90,7 +90,7 @@ Outcome:
 You should see collection expressions as a data-shape description tool, not just a convenience feature.
 ________________________________________
 
-Practice Prompt 5: Less Ceremony, Fewer Temporaries
+### Practice Prompt 5: Less Ceremony, Fewer Temporaries
 
 (Productivity Analyst)
 
@@ -111,7 +111,7 @@ Outcome:
 You should understand how small syntax unifications accumulate into major productivity gains.
 ________________________________________
 
-Practice Prompt 6: Safe Performance Without Unsafe Code
+### Practice Prompt 6: Safe Performance Without Unsafe Code
 
 (Performance Advisor)
 
@@ -132,7 +132,7 @@ Outcome:
 You should be able to explain how C# continues its long trend of making safe code fast.
 ________________________________________
 
-Practice Prompt 7: Where Inline Arrays Truly Matter
+### Practice Prompt 7: Where Inline Arrays Truly Matter
 
 (Systems Thinker)
 
@@ -153,7 +153,7 @@ Outcome:
 You should understand that inline arrays are a tool, not a default.
 ________________________________________
 
-Practice Prompt 8: Lambdas vs Methods—The Last Gaps
+### Practice Prompt 8: Lambdas vs Methods—The Last Gaps
 
 (Language Integrator)
 
@@ -174,7 +174,7 @@ Outcome:
 You should see lambdas as increasingly first-class API building blocks.
 ________________________________________
 
-Practice Prompt 9: ref readonly as API Communication
+### Practice Prompt 9: ref readonly as API Communication
 
 (API Designer)
 
@@ -195,7 +195,7 @@ Outcome:
 You should appreciate performance features as semantic tools, not just optimizations.
 ________________________________________
 
-Practice Prompt 10: Type Aliases as Design Language
+### Practice Prompt 10: Type Aliases as Design Language
 
 (Abstraction Architect)
 
@@ -216,7 +216,7 @@ Outcome:
 You should see naming as a first-class abstraction mechanism in C# 12.
 ________________________________________
 
-Practice Prompt 11: Honest Language Evolution
+### Practice Prompt 11: Honest Language Evolution
 
 (Language Steward)
 
@@ -237,7 +237,7 @@ Outcome:
 You should understand why honesty is now a language feature.
 ________________________________________
 
-Practice Prompt 12: Interceptors as a Signal, Not a Feature
+### Practice Prompt 12: Interceptors as a Signal, Not a Feature
 
 (Future-Facing Analyst)
 
@@ -258,7 +258,7 @@ Outcome:
 You should learn how to read language signals, not just released features.
 ________________________________________
 
-Practice Prompt 13: Evolution Framework Evaluation
+### Practice Prompt 13: Evolution Framework Evaluation
 
 (Language Critic)
 
@@ -279,7 +279,7 @@ Outcome:
 You should be able to place C# 12 correctly in the broader evolution of the language.
 ________________________________________
 
-Final Reflection Prompt
+### Final Reflection Prompt
 
 Ask yourself (or your AI assistant):
 

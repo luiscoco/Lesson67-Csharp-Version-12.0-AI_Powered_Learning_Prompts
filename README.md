@@ -1,4 +1,6 @@
-# Lesson 67 - C# Version 12.0 AI-Powered Learning Prompts (Consistency, Generalization, and Everyday Productivity)
+# Lesson 67 - C# Version 12.0 AI-Powered Learning Prompts 
+
+(Consistency, Generalization, and Everyday Productivity)
 
 ## Role framing:
 
